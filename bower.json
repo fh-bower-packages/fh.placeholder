@@ -1,0 +1,20 @@
+{
+  "name": "fh.placeholder",
+  "version": "1.0",
+  "homepage": "https://github.com/fh-bower-packages/fh.placeholder",
+  "authors": [
+    "Layton Whiteley <layton.whiteley@gmail.com>"
+  ],
+  "description": "placeholder scripts",
+  "keywords": [
+    "placeholder"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
